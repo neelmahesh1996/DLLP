@@ -1,0 +1,7 @@
+user-    localhost/dllp
+
+
+
+admin-   localhost/dllp/controller/
+username-  admin
+password-  123

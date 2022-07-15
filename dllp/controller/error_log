@@ -1,0 +1,110 @@
+[29-Jan-2021 12:04:33 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[29-Jan-2021 12:04:33 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[30-Jan-2021 13:21:43 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[30-Jan-2021 13:21:43 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[01-Feb-2021 12:14:29 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[01-Feb-2021 12:14:29 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[02-Feb-2021 11:43:27 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[02-Feb-2021 11:43:27 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[02-Feb-2021 11:43:29 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[02-Feb-2021 11:43:29 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[05-Feb-2021 23:55:08 UTC] PHP Notice:  Undefined index: pid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 4
+[05-Feb-2021 23:55:08 UTC] PHP Notice:  Undefined index: actionid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 5
+[05-Feb-2021 23:55:08 UTC] PHP Notice:  Undefined index: actiontable in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 6
+[06-Feb-2021 01:10:54 UTC] PHP Notice:  Undefined index: course_id in /home/evfi2lc9mi6w/public_html/controller/add_lecture_video.php on line 3
+[06-Feb-2021 01:10:54 UTC] PHP Notice:  Undefined index: gallery_title in /home/evfi2lc9mi6w/public_html/controller/add_lecture_video.php on line 4
+[06-Feb-2021 01:10:54 UTC] PHP Notice:  Undefined index: gallery_description in /home/evfi2lc9mi6w/public_html/controller/add_lecture_video.php on line 5
+[06-Feb-2021 01:10:54 UTC] PHP Notice:  Undefined index: gallery_file in /home/evfi2lc9mi6w/public_html/controller/add_lecture_video.php on line 6
+[06-Feb-2021 01:10:54 UTC] PHP Notice:  Undefined index: gallery_file in /home/evfi2lc9mi6w/public_html/controller/add_lecture_video.php on line 7
+[06-Feb-2021 01:10:54 UTC] PHP Notice:  Undefined index: gallery_file in /home/evfi2lc9mi6w/public_html/controller/add_lecture_video.php on line 8
+[06-Feb-2021 01:10:54 UTC] PHP Notice:  Undefined index: gallery_file in /home/evfi2lc9mi6w/public_html/controller/add_lecture_video.php on line 10
+[06-Feb-2021 01:10:54 UTC] PHP Notice:  Undefined index: gallery_file in /home/evfi2lc9mi6w/public_html/controller/add_lecture_video.php on line 16
+[06-Feb-2021 10:17:28 UTC] PHP Notice:  Undefined variable: pid in /home/evfi2lc9mi6w/public_html/controller/lecture_status.php on line 8
+[06-Feb-2021 10:17:38 UTC] PHP Notice:  Undefined variable: pid in /home/evfi2lc9mi6w/public_html/controller/lecture_status.php on line 8
+[06-Feb-2021 10:20:14 UTC] PHP Notice:  Undefined variable: pid in /home/evfi2lc9mi6w/public_html/controller/lecture_status.php on line 8
+[08-Feb-2021 13:09:41 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[08-Feb-2021 13:09:41 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[09-Feb-2021 10:58:44 UTC] PHP Notice:  Undefined index: pid in /home/evfi2lc9mi6w/public_html/controller/lecture_status.php on line 4
+[09-Feb-2021 10:58:44 UTC] PHP Notice:  Undefined index: actionid in /home/evfi2lc9mi6w/public_html/controller/lecture_status.php on line 5
+[09-Feb-2021 10:58:44 UTC] PHP Notice:  Undefined index: actiontable in /home/evfi2lc9mi6w/public_html/controller/lecture_status.php on line 6
+[13-Feb-2021 05:35:23 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/evfi2lc9mi6w/public_html/controller/manage_slider.php on line 247
+[13-Feb-2021 05:35:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/evfi2lc9mi6w/public_html/controller/manage_notification.php on line 247
+[13-Feb-2021 10:22:44 UTC] PHP Notice:  Undefined index: pid in /home/evfi2lc9mi6w/public_html/controller/document_status.php on line 4
+[13-Feb-2021 10:22:44 UTC] PHP Notice:  Undefined index: actionid in /home/evfi2lc9mi6w/public_html/controller/document_status.php on line 5
+[13-Feb-2021 10:22:44 UTC] PHP Notice:  Undefined index: actiontable in /home/evfi2lc9mi6w/public_html/controller/document_status.php on line 6
+[13-Feb-2021 10:22:44 UTC] PHP Notice:  Undefined index: pid in /home/evfi2lc9mi6w/public_html/controller/document_status.php on line 4
+[13-Feb-2021 10:22:44 UTC] PHP Notice:  Undefined index: actionid in /home/evfi2lc9mi6w/public_html/controller/document_status.php on line 5
+[13-Feb-2021 10:22:44 UTC] PHP Notice:  Undefined index: actiontable in /home/evfi2lc9mi6w/public_html/controller/document_status.php on line 6
+[15-Feb-2021 12:42:49 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[15-Feb-2021 12:42:49 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[17-Feb-2021 04:41:14 UTC] PHP Notice:  Undefined index: pid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 4
+[17-Feb-2021 04:41:14 UTC] PHP Notice:  Undefined index: actionid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 5
+[17-Feb-2021 04:41:14 UTC] PHP Notice:  Undefined index: actiontable in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 6
+[19-Feb-2021 05:18:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/evfi2lc9mi6w/public_html/controller/result.php on line 250
+[19-Feb-2021 05:33:24 UTC] PHP Warning:  include(=1): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 05:33:24 UTC] PHP Warning:  include(): Failed opening '=1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 08:33:13 UTC] PHP Warning:  include(=2): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 08:33:13 UTC] PHP Warning:  include(): Failed opening '=2' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 08:36:14 UTC] PHP Warning:  include(=3): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 08:36:14 UTC] PHP Warning:  include(): Failed opening '=3' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 09:14:30 UTC] PHP Warning:  include(=4): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 09:14:30 UTC] PHP Warning:  include(): Failed opening '=4' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 11:50:47 UTC] PHP Warning:  include(=5): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 11:50:47 UTC] PHP Warning:  include(): Failed opening '=5' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 13:48:25 UTC] PHP Warning:  include(=6): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 13:48:25 UTC] PHP Warning:  include(): Failed opening '=6' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 17:50:37 UTC] PHP Warning:  include(=7): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[19-Feb-2021 17:50:37 UTC] PHP Warning:  include(): Failed opening '=7' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[20-Feb-2021 11:20:23 UTC] PHP Notice:  Undefined index: pid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 4
+[20-Feb-2021 11:20:23 UTC] PHP Notice:  Undefined index: actionid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 5
+[20-Feb-2021 11:20:23 UTC] PHP Notice:  Undefined index: actiontable in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 6
+[21-Feb-2021 03:40:03 UTC] PHP Warning:  include(=8): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[21-Feb-2021 03:40:03 UTC] PHP Warning:  include(): Failed opening '=8' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[21-Feb-2021 04:11:19 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[21-Feb-2021 04:11:19 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[21-Feb-2021 04:14:55 UTC] PHP Warning:  include(=9): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[21-Feb-2021 04:14:55 UTC] PHP Warning:  include(): Failed opening '=9' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[22-Feb-2021 15:34:31 UTC] PHP Warning:  include(=10): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[22-Feb-2021 15:34:31 UTC] PHP Warning:  include(): Failed opening '=10' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[22-Feb-2021 15:45:05 UTC] PHP Warning:  include(=11): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[22-Feb-2021 15:45:05 UTC] PHP Warning:  include(): Failed opening '=11' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[22-Feb-2021 15:45:10 UTC] PHP Warning:  include(=12): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[22-Feb-2021 15:45:10 UTC] PHP Warning:  include(): Failed opening '=12' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[22-Feb-2021 15:45:13 UTC] PHP Warning:  include(=13): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[22-Feb-2021 15:45:13 UTC] PHP Warning:  include(): Failed opening '=13' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:41:57 UTC] PHP Warning:  include(=14): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:41:57 UTC] PHP Warning:  include(): Failed opening '=14' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:42:18 UTC] PHP Warning:  include(=15): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:42:18 UTC] PHP Warning:  include(): Failed opening '=15' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:42:35 UTC] PHP Warning:  include(=16): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:42:35 UTC] PHP Warning:  include(): Failed opening '=16' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:47:17 UTC] PHP Warning:  include(=17): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:47:17 UTC] PHP Warning:  include(): Failed opening '=17' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:48:16 UTC] PHP Warning:  include(=18): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[23-Feb-2021 07:48:16 UTC] PHP Warning:  include(): Failed opening '=18' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[28-Feb-2021 11:30:45 UTC] PHP Notice:  Undefined index: pid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 4
+[28-Feb-2021 11:30:45 UTC] PHP Notice:  Undefined index: actionid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 5
+[28-Feb-2021 11:30:45 UTC] PHP Notice:  Undefined index: actiontable in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 6
+[28-Feb-2021 11:31:34 UTC] PHP Notice:  Undefined index: pid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 4
+[28-Feb-2021 11:31:34 UTC] PHP Notice:  Undefined index: actionid in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 5
+[28-Feb-2021 11:31:34 UTC] PHP Notice:  Undefined index: actiontable in /home/evfi2lc9mi6w/public_html/controller/fees_status_update.php on line 6
+[28-Feb-2021 11:38:04 UTC] PHP Warning:  include(=19): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[28-Feb-2021 11:38:04 UTC] PHP Warning:  include(): Failed opening '=19' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[02-Mar-2021 00:48:02 UTC] PHP Warning:  include(=20): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[02-Mar-2021 00:48:02 UTC] PHP Warning:  include(): Failed opening '=20' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[02-Mar-2021 17:22:27 UTC] PHP Warning:  include(=21): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[02-Mar-2021 17:22:27 UTC] PHP Warning:  include(): Failed opening '=21' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[06-Mar-2021 15:10:54 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[06-Mar-2021 15:10:54 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[07-Mar-2021 13:08:46 UTC] PHP Notice:  Undefined variable: crid in /home/evfi2lc9mi6w/public_html/controller/new_register.php on line 103
+[07-Mar-2021 13:08:46 UTC] PHP Notice:  Undefined variable: crid in /home/evfi2lc9mi6w/public_html/controller/new_register.php on line 103
+[07-Mar-2021 13:08:46 UTC] PHP Notice:  Undefined variable: crid in /home/evfi2lc9mi6w/public_html/controller/new_register.php on line 103
+[07-Mar-2021 13:08:46 UTC] PHP Notice:  Undefined variable: crid in /home/evfi2lc9mi6w/public_html/controller/new_register.php on line 103
+[07-Mar-2021 13:08:46 UTC] PHP Notice:  Undefined variable: crid in /home/evfi2lc9mi6w/public_html/controller/new_register.php on line 103
+[07-Mar-2021 13:08:46 UTC] PHP Notice:  Undefined variable: crid in /home/evfi2lc9mi6w/public_html/controller/new_register.php on line 103
+[07-Mar-2021 15:23:54 UTC] PHP Warning:  include(=22): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[07-Mar-2021 15:23:54 UTC] PHP Warning:  include(): Failed opening '=22' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[18-Apr-2021 15:34:59 UTC] PHP Notice:  Undefined index: username in /home/evfi2lc9mi6w/public_html/controller/login.php on line 4
+[18-Apr-2021 15:34:59 UTC] PHP Notice:  Undefined index: password in /home/evfi2lc9mi6w/public_html/controller/login.php on line 5
+[21-Apr-2021 03:49:06 UTC] PHP Warning:  include(=23): failed to open stream: No such file or directory in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
+[21-Apr-2021 03:49:06 UTC] PHP Warning:  include(): Failed opening '=23' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evfi2lc9mi6w/public_html/controller/add_test.php on line 44
